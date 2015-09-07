@@ -1,0 +1,22 @@
+{
+    "name": "pixelmelody/phpwebtoken",
+    "version": "1.0.0",
+    "type": "library",
+    "description": "Pixelmelody PHP WebToken - the easiest cloud token",
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "Pixelmelody Lab",
+            "email": "lab@pixelmelody.com",
+            "homepage": "http://pixelmelody.com/lab"
+        }
+    ],
+    "require": {
+        "php": ">=5.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "pixelmelody\\phpwebtoken\\": ""
+        }
+    }
+}
